@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+body {
+	text-shadow:none;
+}
 
 #container {
 	background:none;
